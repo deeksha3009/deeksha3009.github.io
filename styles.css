@@ -1,0 +1,125 @@
+.header{
+	text-align: center;
+	color: #666
+}
+.header > a{
+	color: yellow;
+	font-size: 20px;
+}
+
+.nav{
+
+	float: top-right;
+	background-color: #16a085;
+    padding: 10px;
+    font-family: verdana;
+    opacity: 0.6;
+	transition: 0.3s;
+}
+
+/*.nav > ul{
+	background-color: #f4511e;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	opacity: 0.6;
+	transition: 0.3s;
+	display: inline-block;
+	text-decoration: none;
+	cursor: pointer;
+}*/
+.jum{
+	text-align: center;
+	color: /*#1B1464*/#EA2027;
+}
+.box_1{
+	font-size: 150%;
+	float: right;
+	padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color: #f1f1f1;
+    height: 450px;
+    font-family: oblique;
+    color: /*#e84118*/#1B1464;
+}
+.box> div{
+	background-color: white;
+	float: center;
+	border: 10px solid #182C61;
+    padding: 25px;
+    margin-left: 10px;
+}
+.pro{
+	float:left;
+	background-color: #badc58;
+	border:2px solid Tomato;
+	width: 50%;
+	height: 250px;
+	margin-left: 20px;
+	padding-top: 30px;
+}
+.heading{
+	text-align: left;
+	font-family: Comic Sans MS, cursive, sans-serif;
+	font-size: 400%;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.qualify{
+	float:right;
+	background-color: white;
+	border:2px solid Tomato;
+	width: 60%;
+	height: 164px;
+	padding: 10px;
+	margin: 40px;
+}
+.heading_1{
+	text-align: right;
+	font-family: Comic Sans MS, cursive, sans-serif;
+	margin-top: 160px;
+	margin-right: 20px;
+	font-size: 400%;
+}
+
+.social{
+	float:center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.text{
+	padding-left: 50px;
+	color:maroon;
+}
+
+.text>form{
+	float:center;
+	background-color: #bdc3c7;
+	border:2px #bdc3c7;
+	border-radius: 2px;
+	width: 95%;
+	height: 240px;
+	/*margin-right: 30px;*/
+}
+
+.details{
+	text-align: center;
+	font-size: 250%;
+	font-family: verdana;
+	color: #833471;
+}
+
+.col-xs-2{
+    background:#00f;
+    color:#FFF;
+}
+.colum> row{
+    margin-left:4.166666667%
+}
